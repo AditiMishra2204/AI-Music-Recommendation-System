@@ -151,3 +151,6 @@ B.Tech Robotics & Artificial Intelligence
 - Real-world application of NLP techniques
 - Beginner-friendly AI project
 - Suitable for academic projects and resume showcase
+
+PROJECT LINK -
+https://github.com/AditiMishra2204/AI-Music-Recommendation-System
